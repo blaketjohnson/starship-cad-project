@@ -1,3 +1,10 @@
 # Track SolidWorks CAD files with Git LFS
 *.SLDASM filter=lfs diff=lfs merge=lfs -text
 *.SLDPRT filter=lfs diff=lfs merge=lfs -text
+
+*.tex linguist-detectable=true
+*.tex linguist-language=TeX
+*.pdf linguist-documentation
+*.png linguist-documentation
+*.SLDPRT linguist-vendored
+*.SLDASM linguist-vendored
