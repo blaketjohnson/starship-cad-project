@@ -1,10 +1,21 @@
-# Track SolidWorks CAD files with Git LFS
-*.SLDASM filter=lfs diff=lfs merge=lfs -text
-*.SLDPRT filter=lfs diff=lfs merge=lfs -text
-
+# Treat LaTeX as primary source
 *.tex linguist-detectable=true
 *.tex linguist-language=TeX
-*.pdf linguist-documentation
-*.png linguist-documentation
+docs/** linguist-language=TeX
+
+# Exclude binaries from language stats
 *.SLDPRT linguist-vendored
 *.SLDASM linguist-vendored
+*.pdf linguist-documentation
+*.png linguist-documentation
+*.jpg linguist-documentation
+
+# Generated LaTeX artifacts
+*.log linguist-generated
+*.aux linguist-generated
+*.out linguist-generated
+*.fdb_latexmk linguist-generated
+*.fls linguist-generated
+*.synctex.gz linguist-generated
+
+
