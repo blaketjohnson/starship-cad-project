@@ -26,17 +26,10 @@ The project involved building a **Starship-inspired assembly** from the ground u
 
 ---
 
-## 🖼️ Preview Renders
+## 🖼️ Preview Render
 <p align="center">
-  <img src="renders/final_1.png" width="45%"/>
-  <img src="renders/final_2.png" width="45%"/>
+  <img src="renders/final_1.png" width="70%"/>
 </p>
-
-<p align="center">
-  <img src="renders/final_3.png" width="45%"/>
-  <img src="renders/final_4.png" width="45%"/>
-</p>
-
 ---
 
 ## 📂 Repository Structure
