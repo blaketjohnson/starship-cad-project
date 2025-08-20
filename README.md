@@ -1,4 +1,4 @@
-# Starship CAD Project 🚀🛠️
+# Starship CAD Project 
 
 [![Status](https://img.shields.io/badge/status-stable-brightgreen)](#)
 [![Last commit](https://img.shields.io/github/last-commit/blaketjohnson/starship-cad-project)](#)
@@ -12,7 +12,7 @@ The project involved building a **Starship-inspired assembly** from the ground u
 
 ---
 
-## ✨ Highlights for Recruiters
+## Highlights for Recruiters
 - Full **SolidWorks assembly** with parametric parts and mating constraints.  
 - Produced **STEP/STL exports** for cross-platform compatibility.  
 - Generated **high-resolution renders** for technical presentation and reports.  
@@ -21,18 +21,18 @@ The project involved building a **Starship-inspired assembly** from the ground u
 
 ---
 
-## 📽️ Project Walkthrough Video
+## Project Walkthrough Video
 ▶️ [Watch the full design walkthrough on YouTube](https://youtu.be/Q1W1udKvBcU)
 
 ---
 
-## 🖼️ Preview Render
+## Preview Render
 <p align="center">
   <img src="renders/final_1.png" width="70%"/>
 </p>
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 starship-cad-project/
 ├── cad/             # SolidWorks source files (.SLDASM, .SLDPRT)
@@ -45,18 +45,18 @@ starship-cad-project/
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **SolidWorks 2024** — parametric CAD, assemblies, constraints, rendering  
 - **LaTeX** — technical report and documentation  
 - **Git/GitHub** — version control, repo organization  
 
 ---
 
-## 📌 About the Author
+## About the Author
 This project is part of a portfolio in **orbital mechanics, mission design, and aerospace systems engineering**, including applications of CAD to aerospace structures.  
 More projects available at: [GitHub Portfolio](https://github.com/blaketjohnson)
 
 ---
 
-## 📜 License
+## License
 MIT License — see [LICENSE](LICENSE).
